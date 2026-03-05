@@ -40,6 +40,15 @@ A Tableau dashboard was developed to translate analytical outputs into decision-
 
 <img width="659" height="850" alt="Screenshot 2026-03-05 at 2 40 00 PM" src="https://github.com/user-attachments/assets/4c6c7765-0372-41a7-9329-18675af64a57" />
 
+# Key Business Insights
+By analyzing the Q1 Market Health Dashboard, three critical operational insights were surfaced:
+- **Premium Positioning Success:**
+  - The East Region is the top revenue driver, successfully maintaining a 1.01 Price Index (a 1% premium over the market average) without sacrificing          sales volume, indicating strong regional brand equity.
+  - The South region is currently the lowest performer. While it has passed the 80% of average revenue mark (Regional Revenue vs. Target), it is noticeably     shorter than the others.
+- **Positive Price Elasticity in Apparel:**
+  - The elasticity scatter plot revealed an upward trendline for the Lifestyle category. This counter-intuitive insight demonstrates that sales volume            actually holds steady or increases as the relative price rises, suggesting opportunity for controlled price increases.
+- **Inventory Revenue-at-Risk:**
+  - The Inventory Risk matrix identified critical stock-outs in the "Discount" category, representing an immediate $12K in deferred revenue, alongside a        severe overstock of the Lifestyle category in the South Region.
 
 
 
