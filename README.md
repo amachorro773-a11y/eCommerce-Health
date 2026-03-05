@@ -36,3 +36,9 @@ A Tableau dashboard was developed to translate analytical outputs into decision-
 - Regional pricing heatmaps
 - Price elasticity scatter plots
 - Inventory risk matrices
+
+
+<img width="649" height="859" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/2e37dc04-c333-48aa-ae27-440643e34027" />
+
+
+
