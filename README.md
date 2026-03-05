@@ -20,13 +20,13 @@ The system was designed to support three operational objectives:
 - **Inventory Risk Mitigation**
   - Surface products at risk of stock-outs or overstock to support timely supply chain and promotional decisions.
 
-# Technical Architecture
+## Technical Architecture
 Data Processing:
   - Python used for data ingestion and preprocessing
   - External competitor pricing dataset combined with internal transaction and inventory data
   - dbt used to model and transform data into analytical tables
 
-## Analytics Layer
+# Analytics Layer
 - Computed core KPI's
   - **Competitor Price Index** at **1.003** (Price Index = Company Price / Average Competitor Price)
   - **Total Revenue** at **$4.28M** (Revenue = Internal Prices * Units Sold)
