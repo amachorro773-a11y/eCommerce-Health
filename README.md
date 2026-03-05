@@ -4,7 +4,7 @@ By integrating external competitor pricing data with internal sales and inventor
 The resulting dashboard provides actionable insights that help guide pricing adjustments, inventory allocation, and promotional strategies.
 
 # Business Problems & Goals
-## Primary Concerns
+## Concerns
 In competitive eCommerce markets, static national pricing strategies often fail to account for regional competitive pressures.\
 The organization lacked visibility into:
 - How competitor pricing varied across regions.
