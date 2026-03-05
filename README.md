@@ -29,14 +29,10 @@ Data Processing:
 ## Analytics Layer
 - Computed core KPI's
   - Competitor Price Index (Price Index = Company Price / Average Competitor Price)
-  - 
+  - Total Revenue (Revenue = Internal Prices * Units Sold)
 
-Visualization
-
+## Visualization
 A Tableau dashboard was developed to translate analytical outputs into decision-support insights using:
-
-Regional pricing heatmaps
-
-Price elasticity scatter plots
-
-Inventory risk matrices
+- Regional pricing heatmaps
+- Price elasticity scatter plots
+- Inventory risk matrices
