@@ -43,7 +43,7 @@ A Tableau dashboard was developed to translate analytical outputs into decision-
 # Key Business Insights
 By analyzing the Q1 Market Health Dashboard, three critical operational insights were surfaced:
 - **Premium Positioning Success:**
-  - The East Region is the top revenue driver, successfully maintaining a 1.01 Price Index (a 1% premium over the market average) without sacrificing          sales volume, indicating strong regional brand equity.
+  - The East Region is the top revenue driver, successfully maintaining a **1.01** Price Index (a **1% premium** over the market average) without sacrificing          sales volume, indicating strong regional brand equity.
   - The South region is currently the lowest performer. While it has passed the 80% of average revenue mark (Regional Revenue vs. Target), it is noticeably     shorter than the others.
 - **Positive Price Elasticity in Apparel:**
   - The elasticity scatter plot revealed an upward trendline for the Apparel category. This counter-intuitive insight demonstrates that sales volume            actually holds steady or increases as the relative price rises, suggesting opportunity for controlled price increases.
