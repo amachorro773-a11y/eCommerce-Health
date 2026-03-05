@@ -37,8 +37,9 @@ A Tableau dashboard was developed to translate analytical outputs into decision-
 - Price elasticity scatter plots
 - Inventory risk matrices
 
+<img width="659" height="850" alt="Screenshot 2026-03-05 at 2 40 00 PM" src="https://github.com/user-attachments/assets/4c6c7765-0372-41a7-9329-18675af64a57" />
 
-<img width="649" height="859" alt="Dashboard 1 (5)" src="https://github.com/user-attachments/assets/98255f87-5c6c-4dd3-8808-9bd561fc7b06" />
+
 
 
 
