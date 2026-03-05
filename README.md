@@ -28,8 +28,8 @@ Data Processing:
 
 ## Analytics Layer
 - Computed core KPI's
-  - **Competitor Price Index** (Price Index = Company Price / Average Competitor Price)
-  - **Total Revenue** (Revenue = Internal Prices * Units Sold)
+  - **Competitor Price Index** at **1.003** (Price Index = Company Price / Average Competitor Price)
+  - **Total Revenue** at **$4.28M** (Revenue = Internal Prices * Units Sold)
 
 ## Visualization
 A Tableau dashboard was developed to translate analytical outputs into decision-support insights using:
