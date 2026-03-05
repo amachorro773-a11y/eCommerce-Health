@@ -13,11 +13,11 @@ The organization lacked visibility into:
 Without this insight, pricing and inventory decisions were largely reactive./ 
 ## Primary Business Goals
 The system was designed to support three operational objectives:
-- Margin Optimization
+- **Margin Optimization**
   - Identify product categories with low price sensitivity where price premiums can be sustained.
-- Competitive Price Positioning
+- **Competitive Price Positioning**
   - Develop a regional Price Index to quantify how internal pricing compares to the local competitor market.
-- Inventory Risk Mitigation
+- **Inventory Risk Mitigation**
   - Surface products at risk of stock-outs or overstock to support timely supply chain and promotional decisions.
 
 # Technical Architecture
@@ -28,8 +28,8 @@ Data Processing:
 
 ## Analytics Layer
 - Computed core KPI's
-  - Competitor Price Index (Price Index = Company Price / Average Competitor Price)
-  - Total Revenue (Revenue = Internal Prices * Units Sold)
+  - **Competitor Price Index** (Price Index = Company Price / Average Competitor Price)
+  - **Total Revenue** (Revenue = Internal Prices * Units Sold)
 
 ## Visualization
 A Tableau dashboard was developed to translate analytical outputs into decision-support insights using:
