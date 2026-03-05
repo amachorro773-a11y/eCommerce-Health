@@ -1,4 +1,4 @@
-# Project Overview
-I analyzed and understood trends for a sample e-commerce clothing company, mainly focusing on how we can increase performance based on the websites full market history. By measuring our strongest competitor's market data, I 
-made sure to make appripiate business decision based on our price elasticity, regional revenue, and inventory/pricing 
-misalignment
+# eCommerce Competitive Pricing & Inventory Optimization System
+Developed an end-to-end competitive pricing and inventory risk analytics system to support regional pricing strategy in an eCommerce retail environment.\
+By integrating external competitor pricing data with internal sales and inventory metrics, the system enables stakeholders to evaluate regional pricing competitiveness, identify price-inelastic product categories, and detect revenue risk caused by inventory shortages or overstock.\
+The resulting dashboard provides actionable insights that help guide pricing adjustments, inventory allocation, and promotional strategies.
