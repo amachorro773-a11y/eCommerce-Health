@@ -54,11 +54,11 @@ By analyzing the Q1 Market Health Dashboard, three critical operational insights
 # Recommendations
 To optimize Q2 margins, the management team should execute the following strategies:
 - **Capitalize on Apparel Elasticity:**
-  -  Implement a strategic 1% to 2% price increase in the Apparel category across all regions. The scatter plot proves demand is inelastic/positive, meaning we can immediately boost profit margins with minimal risk to sales volume.
+  -  Implement a strategic **1% to 2%** price increase in the Apparel category across all regions. The scatter plot proves demand is inelastic/positive, meaning we can immediately boost profit margins with minimal risk to sales volume.
 - **Reprice Scarce Inventory:**
-  - Instigate an immediate pricing freeze on the $208K of Low Stock / Discounted inventory. These scarce items should be dynamically adjusted upward to "Market Match" or "Premium" levels to maximize the return on remaining units before stock-out.
+  - Instigate an immediate pricing freeze on the **$208K** of Low Stock / Discounted inventory. These scarce items should be dynamically adjusted upward to "Market Match" or "Premium" levels to maximize the return on remaining units before stock-out.
 - **Execute a Targeted Liquidation Strategy:**
-  -  Apply a temporary 3% to 5% price reduction on the $886K of Overstock / Market Match goods. Undercutting the competition here will accelerate the clearance of dead stock and reduce warehousing overhead.
+  -  Apply a temporary **3% to 5%** price reduction on the **$886K** of Overstock / Market Match goods. Undercutting the competition here will accelerate the clearance of dead stock and reduce warehousing overhead.
 
 
 
