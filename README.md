@@ -40,6 +40,8 @@ A Tableau dashboard was developed to translate analytical outputs into decision-
 
 <img width="659" height="850" alt="Screenshot 2026-03-05 at 2 40 00 PM" src="https://github.com/user-attachments/assets/4c6c7765-0372-41a7-9329-18675af64a57" />
 
+Check dashboard here: [Live Tableau Dashboard](https://public.tableau.com/views/Book1_17726614402280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # Key Business Insights
 By analyzing the Q1 Market Health Dashboard, three critical operational insights were surfaced:
 - **Premium Positioning Success:**
