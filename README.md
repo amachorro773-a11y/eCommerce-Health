@@ -11,7 +11,8 @@ The organization lacked visibility into:
 - How price differences affected internal sales performance.
 - Where inventory shortages or excess stock created revenue risk.
 
-Without this insight, pricing and inventory decisions were largely reactive./ 
+Without this insight, pricing and inventory decisions were largely reactive.
+
 ## Primary Business Goals
 The system was designed to support three operational objectives:
 - **Margin Optimization**
